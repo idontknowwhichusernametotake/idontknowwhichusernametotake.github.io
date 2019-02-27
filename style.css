@@ -1,0 +1,181 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+body {
+	overflow:hidden;
+	
+	display: block;
+	padding:0;
+	    margin:0;
+	width: 100%;
+  height: 100%;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+#cont {
+	 overflow:hidden;
+	 
+	
+}
+header{
+	background-color: #3e83d1;
+	height:200px;
+}
+
+li {
+	display: inline;
+}
+ul {
+  list-style-type: none;
+  margin-top: 0;
+  padding-top: 0;
+  overflow: hidden;
+  background-color: #3366ff;
+  
+}
+
+li {
+  float: left;
+  margin-left: 0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #002699;
+}
+/*Search bar*/
+.topnav {
+  overflow: hidden;
+  background-color: #3366ff;
+}
+
+
+li.a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 26px;
+  font-size: 17px;
+}
+}
+main{
+	padding-left: 20px;
+	padding-right: 20px;
+	height: 1000px;
+}
+
+p{
+font-family: "Helvetica", Georgia, sans-serif;
+font-size: 20px;
+margin-left: 20px;
+opacity: 20;
+font-weight: 600;
+text-shadow: 0 0 3px white;
+}
+#main-top{
+	height: 400px;
+	margin-top: 40px;
+}
+#main-top div{
+	width: 450px;
+}
+#main-top-left{
+	float:left;
+	border:3px; 
+	border-style:solid; 
+	border-color:#042f62; 
+	padding: 1em;
+}
+#main-top-left h1{
+	font-size: 84px;
+	margin-top: 10px;
+	text-align: left;
+	
+}
+#main-top-right{
+	float: right;
+}
+.read{
+	width: 260px;
+	height: 173px;
+}
+.travel{
+	width:283px;
+	height:192px;
+}
+.puzzle{
+	width: 294px;
+	height: 200px;
+}
+.home-story{
+	width: 280px;
+	height: 300px;
+}
+.home-ini{
+	width:220px;
+	height:430px;
+}
+.home-drinking{
+	width:300px;
+	height:250px;
+}
+.home-cyber{
+	width:300px;
+	height:250px;
+}
+.home-logo {
+width: 157px;
+height: 150px;
+ float: left;
+}
+.home-back{
+float: top;
+width:1176px;
+height:150px;
+}
+.home-me{
+height:430px;
+width:	350px;
+}
+footer {
+	
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 2px;
+	background-color: #3366ff;
+	margin-top: 100px;
+}
+.links{
+	position: relative;
+left: 3px;
+}
+h1{
+	font-family: "Verdana", Georgia, sans-serif
+}
+h2{
+	text-align: center;
+	left: 615px;
+	font-size: 15px;
+}
